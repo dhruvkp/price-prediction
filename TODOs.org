@@ -1,0 +1,15 @@
+
+* DONE Define functions
+  CLOSED: [2016-12-11 Sun 16:48]
+
+** function
+*** DONE create proper project directory
+    CLOSED: [2016-12-11 Sun 17:06]
+*** TODO initial data reading - training and test data
+*** TODO feature extraction - training and test data
+*** TODO database storing, retrieving
+*** TODO training model and storing
+*** TODO running model and get output
+*** TODO Store output for given model
+
+
