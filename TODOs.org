@@ -1,15 +1,15 @@
-
-* DONE Define functions
-  CLOSED: [2016-12-11 Sun 16:48]
-
-** function
-*** DONE create proper project directory
-    CLOSED: [2016-12-11 Sun 17:06]
-*** TODO initial data reading - training and test data
-*** TODO feature extraction - training and test data
-*** TODO database storing, retrieving
-*** TODO training model and storing
-*** TODO running model and get output
-*** TODO Store output for given model
-
-
+* Define functions
+** DONE define and create proper project directory
+   CLOSED: [2016-12-19 Mon 14:09]
+    PricePrediction- Use peewee for data model and storage
+    Things to do- data reading, feature extraction, save/retrieve features, learning models, prediction
+    Decide data model- features, models
+** DONE initial data reading - training and test data
+   CLOSED: [2016-12-20 Tue 13:23]
+   read data in data module
+** TODO feature extraction - training and test data
+   Base feature- must be saved in database- peewee
+** TODO database storing, retrieving
+** TODO training model and storing
+** TODO running model and get output
+** TODO Store output for given model
